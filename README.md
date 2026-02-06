@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Daniel Rubaski
 
-**`Desenvolvedor FrontEnd ruamo ao FullStack`**
+**`Desenvolvedor FrontEnd rumo ao FullStack`**
 
 Me chamo Daniel estou a 1 ano estudando e fazendo projetos e fazendo meu portifolio, estou fazendo tecnologo de ADS e faço mais um curso em conjunto de aperfeiçoamento para desenvolvimeto web, nome do curso é DevQuest, onde estou fazendo projetos para conseguir migrar de carreira e entrar no mundo da TI.
 
